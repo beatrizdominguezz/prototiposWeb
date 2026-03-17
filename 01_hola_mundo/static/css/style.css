@@ -1,0 +1,30 @@
+/* Esto es un comentario */
+
+header {
+    text-align:center; /* Esto centra el texto */
+    background-color: azure; /* Este es un color de fondo */
+}
+header:hover{
+    background-color: aliceblue;
+}
+main {
+    background-color: lightsteelblue;
+}
+main:hover{
+    background-color: coral;
+}
+footer {
+    background-color: azure;
+}
+footer:hover{
+    background-color: deepskyblue;
+}
+h1 {
+    color:lightseagreen; /* Cambia color de la letra */
+}
+h2 {
+    color:aliceblue; 
+}
+p {
+    color:darkblue;
+}
